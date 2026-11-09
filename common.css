@@ -168,6 +168,7 @@ a:hover {
     cursor: pointer;
     background-color: #f8f8f7;
     text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .gallery-item img {
